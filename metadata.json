@@ -1,0 +1,5 @@
+{
+  "name": "CategorizarGmailsShets FRONT-END",
+  "description": "A minimalist, Apple-style dashboard for AI-classified email management. Features priority filtering, urgent item tracking, and N8N webhook integration.",
+  "requestFramePermissions": []
+}
